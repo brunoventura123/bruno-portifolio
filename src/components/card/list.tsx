@@ -14,7 +14,7 @@ import climate from '../../assets/imgs/projectsImg/climate.jpeg'
 export const List = [
     { img: storeVirtual, title: 'Loja Virtual Completa', link: 'https://brunoventura123.github.io/lojavirtual/' },
     { img: jw, title: 'Site de vídeos e artigos', link: 'https://brunoventura123.github.io/jw.org-homepage/' },
-    { img: jewwlry, title: 'Loja virtual de joias', link: 'https://brunoventura123.github.io/loja-joias/' },
+    { img: jewwlry, title: 'Loja virtual de Joias', link: 'https://brunoventura123.github.io/loja-joias/' },
     { img: storeLandpage, title: 'Landpage Loja Virtual', link: 'https://brunoventura123.github.io/landpage/' },
     { img: quiz, title: 'Quiz', link: 'https://brunoventura123.github.io/Quiz/' },
     { img: batery, title: 'Bateria Virtual', link: 'https://brunoventura123.github.io/Bateria/' },
