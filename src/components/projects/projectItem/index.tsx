@@ -6,7 +6,7 @@ type Props = {
     link: string
 }
 
-export const CardItem = ({ img, title, link }: Props) => {
+export const ProjectItem = ({ img, title, link }: Props) => {
 
     return (
         <C.Container>

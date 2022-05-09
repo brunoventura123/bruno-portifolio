@@ -163,9 +163,9 @@ export const Container = styled.div`
 }
 @media (max-width: 650px) {
 	.box{
-		margin: 25px 10px;
-		width: 140px;
-		height: 140px;
+		margin: 25px 5px;
+		width: 150px;
+		height: 150px;
 		.content h2{
 			font-size: 12px;
 		}

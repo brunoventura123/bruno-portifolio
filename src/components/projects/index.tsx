@@ -1,6 +1,6 @@
 import * as C from './style'
-import { CardItem } from '../card'
-import { List } from '../card/list'
+import { ProjectItem } from './projectItem'
+import { List } from './projectItem/list'
 
 export const Projects = () => {
     return (
@@ -8,7 +8,7 @@ export const Projects = () => {
             <h2 id='projects'>PROJETOS</h2>
             <div className="container">
                 {List.map((i, k) =>
-                    <CardItem key={k} img={i.img} title={i.title} link={i.link} />
+                    <ProjectItem key={k} img={i.img} title={i.title} link={i.link} />
                 )}
             </div>
 

@@ -3,7 +3,7 @@ import face from '../../assets/imgs/homeImg/facebook.png'
 import linkedin from '../../assets/imgs/homeImg/linkedin.png'
 import github from '../../assets/imgs/homeImg/github.png'
 
-export const Home = () => {
+export const TopPage = () => {
     /*
     let skewedOne = document.querySelector('.skewedOne') as HTMLElement
     let skewedTwo = document.querySelector('.skewedTwo') as HTMLElement

@@ -1,6 +1,5 @@
 import React from 'react';
-import { NavBar } from './components/navbar'
-import { Home } from './components/home'
+import { TopPage } from './components/topPage'
 import { Projects } from './components/projects'
 import { About } from './components/about'
 import { Contact } from './components/contact';
@@ -10,7 +9,7 @@ import { Up } from './components/up';
 function App() {
   return (
     <>
-      <Home />
+      <TopPage />
       <Projects />
       <About />
       <Contact />

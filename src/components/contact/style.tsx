@@ -7,7 +7,6 @@ export const Container = styled.div`
     display: flex;
     justify-content: center;
     flex-direction: column;
-    transition: all ease .5s;
 
     .subtitle{
         padding: 0;
@@ -214,6 +213,9 @@ button:hover:after
 .container .contactForm
 {
   width: 95%;
+}
+.button{
+  width: 100%;
 }
 button{
   padding: 10px 20px;
