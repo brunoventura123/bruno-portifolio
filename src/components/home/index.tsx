@@ -36,7 +36,7 @@ export const Home = () => {
                         <h3>Olá, eu sou</h3>
 
                         <div className="loader">
-                            <div>Bruno Ventura</div>
+                            <div>Bruno Ventura </div>
                             <div>
                                 <span> Desenvolvedor Web</span>
                             </div>

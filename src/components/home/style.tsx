@@ -264,13 +264,7 @@ header #toggle:after
 }
 
 
-@media (max-width: 770px) {
-	.banner{
-    padding-left:20px;
-    font-size: 16px;
-  }
-}
-@media (max-width: 600px){
+@media (max-width: 800px){
   
   header{
     padding: 0;
@@ -286,7 +280,7 @@ header #toggle:after
   }
   .banner{
     padding: 20px 10px;
-    
+    font-size: 16px;
   }
   .banner .content{
     width: 90%;
@@ -340,6 +334,9 @@ header #toggle:after
   height: 90px;
   width: 100vw;
   text-align: left;
+  span{
+    padding-left: 10px;
+  }
 }
 .loader div:last-of-type span {
   margin-left:-255px;
@@ -358,6 +355,10 @@ header #toggle:after
 }
 }
 
-
+@media (max-width:650px) {
+  .content .loader span{
+    padding-left: 0px;
+  }
+}
 
 `
