@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bruno-portifolio/static/css/main.535420c7.css",
-    "main.js": "/bruno-portifolio/static/js/main.ce791243.js",
+    "main.js": "/bruno-portifolio/static/js/main.b5b16005.js",
     "static/media/I.png": "/bruno-portifolio/static/media/I.2567ce9d5704efcf9bc0.png",
     "static/media/jw.png": "/bruno-portifolio/static/media/jw.296542d275ddda4e73de.png",
     "static/media/storeVirtual.png": "/bruno-portifolio/static/media/storeVirtual.3a54c1ce1a739541c70b.png",
@@ -18,10 +18,10 @@
     "static/media/oldGame.jpeg": "/bruno-portifolio/static/media/oldGame.aa043e3c3e8407c2e860.jpeg",
     "index.html": "/bruno-portifolio/index.html",
     "main.535420c7.css.map": "/bruno-portifolio/static/css/main.535420c7.css.map",
-    "main.ce791243.js.map": "/bruno-portifolio/static/js/main.ce791243.js.map"
+    "main.b5b16005.js.map": "/bruno-portifolio/static/js/main.b5b16005.js.map"
   },
   "entrypoints": [
     "static/css/main.535420c7.css",
-    "static/js/main.ce791243.js"
+    "static/js/main.b5b16005.js"
   ]
 }
