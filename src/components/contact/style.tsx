@@ -7,6 +7,7 @@ export const Container = styled.div`
     display: flex;
     justify-content: center;
     flex-direction: column;
+    transition: all ease .5s;
 
     .subtitle{
         padding: 0;
@@ -131,7 +132,7 @@ button
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 2px;
-    cursor: pointer;
+  cursor: pointer;
 	text-decoration: none;
 	transition: 0.5s;
 	transition-delay: 0s;
@@ -235,7 +236,15 @@ button{
   }
   .button{
     width: 100%;
+    padding: 0;
+
   }
-  
+  button span{
+    font-size: 10px;
+    
+  }
+  .container .contactForm .formBox .inputBox span{
+    font-size: 13px;
+  }
 }
 `

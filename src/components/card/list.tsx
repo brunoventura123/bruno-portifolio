@@ -9,7 +9,7 @@ import oldGame from '../../assets/imgs/projectsImg/oldGame.jpeg'
 import quiz from '../../assets/imgs/projectsImg/quiz.jpeg'
 import clock from '../../assets/imgs/projectsImg/clock.jpeg'
 import climate from '../../assets/imgs/projectsImg/climate.jpeg'
-
+import captura from '../../assets/imgs/projectsImg/captura.jpeg'
 
 export const List = [
     { img: storeVirtual, title: 'Loja Virtual Completa', link: 'https://brunoventura123.github.io/lojavirtual/' },
@@ -23,5 +23,6 @@ export const List = [
     { img: oldGame, title: 'Jogo da Velha', link: 'https://brunoventura123.github.io/jogodavelha/' },
     { img: clock, title: 'Relogio', link: 'https://brunoventura123.github.io/Relogio/' },
     { img: climate, title: 'Previsão do Tempo', link: 'https://brunoventura123.github.io/Clima/' },
+    { img: captura, title: 'Página de Captura', link: 'https://brunoventura123.github.io/captura-curso/' }
 
 ]

@@ -163,7 +163,12 @@ export const Container = styled.div`
 }
 @media (max-width: 650px) {
 	.box{
-		margin: 25px 0;
+		margin: 25px 10px;
+		width: 140px;
+		height: 140px;
+		.content h2{
+			font-size: 12px;
+		}
 	}
 }
 `
