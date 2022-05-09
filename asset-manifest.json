@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bruno-portifolio/static/css/main.535420c7.css",
-    "main.js": "/bruno-portifolio/static/js/main.b5b16005.js",
+    "main.js": "/bruno-portifolio/static/js/main.010b8f49.js",
     "static/media/I.png": "/bruno-portifolio/static/media/I.2567ce9d5704efcf9bc0.png",
     "static/media/jw.png": "/bruno-portifolio/static/media/jw.296542d275ddda4e73de.png",
     "static/media/storeVirtual.png": "/bruno-portifolio/static/media/storeVirtual.3a54c1ce1a739541c70b.png",
@@ -10,6 +10,7 @@
     "static/media/calctroco.jpeg": "/bruno-portifolio/static/media/calctroco.db16f2af7b410864051e.jpeg",
     "static/media/captura.jpeg": "/bruno-portifolio/static/media/captura.2f6f3d369fecad8a5a2b.jpeg",
     "static/media/storeLandpage.png": "/bruno-portifolio/static/media/storeLandpage.0d6442b9b7dd7cfdafd8.png",
+    "static/media/multForm.jpeg": "/bruno-portifolio/static/media/multForm.9656a43f1597409a981b.jpeg",
     "static/media/quiz.jpeg": "/bruno-portifolio/static/media/quiz.e24ca63b71fd5855304f.jpeg",
     "static/media/clock.jpeg": "/bruno-portifolio/static/media/clock.389ecb4ce8e5d9d016f9.jpeg",
     "static/media/calculator.jpeg": "/bruno-portifolio/static/media/calculator.543caae886ed8cdf4150.jpeg",
@@ -18,10 +19,10 @@
     "static/media/oldGame.jpeg": "/bruno-portifolio/static/media/oldGame.aa043e3c3e8407c2e860.jpeg",
     "index.html": "/bruno-portifolio/index.html",
     "main.535420c7.css.map": "/bruno-portifolio/static/css/main.535420c7.css.map",
-    "main.b5b16005.js.map": "/bruno-portifolio/static/js/main.b5b16005.js.map"
+    "main.010b8f49.js.map": "/bruno-portifolio/static/js/main.010b8f49.js.map"
   },
   "entrypoints": [
     "static/css/main.535420c7.css",
-    "static/js/main.b5b16005.js"
+    "static/js/main.010b8f49.js"
   ]
 }
