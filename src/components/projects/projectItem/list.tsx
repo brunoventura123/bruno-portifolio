@@ -14,6 +14,7 @@ import captura from '../../../assets/imgs/projectsImg/captura.jpeg'
 export const List = [
     { img: storeVirtual, title: 'Loja Virtual Completa', link: 'https://brunoventura123.github.io/lojavirtual/' },
     { img: jw, title: 'Site de vídeos e artigos', link: 'https://brunoventura123.github.io/jw.org-homepage/' },
+    { img: captura, title: 'Página de Captura', link: 'https://brunoventura123.github.io/captura-curso/' },
     { img: jewwlry, title: 'Loja virtual de Joias', link: 'https://brunoventura123.github.io/loja-joias/' },
     { img: storeLandpage, title: 'Landpage Loja Virtual', link: 'https://brunoventura123.github.io/landpage/' },
     { img: quiz, title: 'Quiz', link: 'https://brunoventura123.github.io/Quiz/' },
@@ -23,6 +24,5 @@ export const List = [
     { img: oldGame, title: 'Jogo da Velha', link: 'https://brunoventura123.github.io/jogodavelha/' },
     { img: clock, title: 'Relogio', link: 'https://brunoventura123.github.io/Relogio/' },
     { img: climate, title: 'Previsão do Tempo', link: 'https://brunoventura123.github.io/Clima/' },
-    { img: captura, title: 'Página de Captura', link: 'https://brunoventura123.github.io/captura-curso/' }
 
 ]
