@@ -331,7 +331,7 @@ header #toggle:after
   }
 .content .loader{
   font-size: 20px;
-  height: 90px;
+  height: auto;
   width: 100vw;
   text-align: left;
   span{
@@ -341,9 +341,13 @@ header #toggle:after
 .loader div:last-of-type span {
   margin-left:-255px;
 }
+.content p{
+  max-width: 500px;
+}
 .banner .content p{
   font-size: 14px;
   height: 100px;
+  
 }
 .banner .content a{
   padding: 5px 10px;
@@ -355,7 +359,10 @@ header #toggle:after
 }
 }
 
-@media (max-width:650px) {
+@media (max-width:500px) {
+  .content .loader{
+    height: 70px;
+  }
   .content .loader span{
     padding-left: 0px;
   }
