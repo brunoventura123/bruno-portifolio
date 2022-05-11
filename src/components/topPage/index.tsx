@@ -48,9 +48,9 @@ export const TopPage = () => {
                     </div>
                 </div>
                 <ul className="sci">
-                    <li><a href="https://www.facebook.com/caturafacil"><img src={face} alt='' /></a></li>
-                    <li><a href="https://github.com/brunoventura123"><img src={github} alt="" /></a></li>
-                    <li><a href="https://www.linkedin.com/in/brunoventura6/"><img src={linkedin} alt='' /></a></li>
+                    <li><a href="https://www.facebook.com/caturafacil" target="_blank"><img src={face} alt='' /></a></li>
+                    <li><a href="https://github.com/brunoventura123" target="_blank"><img src={github} alt="" /></a></li>
+                    <li><a href="https://www.linkedin.com/in/brunoventura6/" target="_blank"><img src={linkedin} alt='' /></a></li>
                 </ul>
             </section>
             <div id="navigation" onClick={navActive}>
