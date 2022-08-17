@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/bruno-portifolio/static/css/main.b0d6bbec.css",
-    "main.js": "/bruno-portifolio/static/js/main.9480fc64.js",
+    "main.js": "/bruno-portifolio/static/js/main.60f224be.js",
     "static/media/I.png": "/bruno-portifolio/static/media/I.2567ce9d5704efcf9bc0.png",
     "static/media/jw.png": "/bruno-portifolio/static/media/jw.296542d275ddda4e73de.png",
     "static/media/storeVirtual.png": "/bruno-portifolio/static/media/storeVirtual.3a54c1ce1a739541c70b.png",
     "static/media/me.png": "/bruno-portifolio/static/media/me.8903f4b74a16328c8099.png",
     "static/media/jewelry.png": "/bruno-portifolio/static/media/jewelry.936697d0df9fd0b23996.png",
+    "static/media/blog.jpeg": "/bruno-portifolio/static/media/blog.817c522e029163e74096.jpeg",
     "static/media/calctroco.jpeg": "/bruno-portifolio/static/media/calctroco.db16f2af7b410864051e.jpeg",
     "static/media/captura.jpeg": "/bruno-portifolio/static/media/captura.2f6f3d369fecad8a5a2b.jpeg",
     "static/media/storeLandpage.png": "/bruno-portifolio/static/media/storeLandpage.0d6442b9b7dd7cfdafd8.png",
@@ -19,10 +20,10 @@
     "static/media/oldGame.jpeg": "/bruno-portifolio/static/media/oldGame.aa043e3c3e8407c2e860.jpeg",
     "index.html": "/bruno-portifolio/index.html",
     "main.b0d6bbec.css.map": "/bruno-portifolio/static/css/main.b0d6bbec.css.map",
-    "main.9480fc64.js.map": "/bruno-portifolio/static/js/main.9480fc64.js.map"
+    "main.60f224be.js.map": "/bruno-portifolio/static/js/main.60f224be.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d6bbec.css",
-    "static/js/main.9480fc64.js"
+    "static/js/main.60f224be.js"
   ]
 }
