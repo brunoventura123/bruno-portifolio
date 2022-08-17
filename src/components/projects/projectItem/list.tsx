@@ -11,8 +11,10 @@ import clock from '../../../assets/imgs/projectsImg/clock.jpeg'
 import climate from '../../../assets/imgs/projectsImg/climate.jpeg'
 import captura from '../../../assets/imgs/projectsImg/captura.jpeg'
 import multform from '../../../assets/imgs/projectsImg/multForm.jpeg'
+import blog from '../../../assets/imgs/projectsImg/blog.jpeg'
 
 export const List = [
+    { img: blog, title: 'Blog', link: 'https://github.com/brunoventura123/blogapi' },
     { img: storeVirtual, title: 'Loja Virtual Completa', link: 'https://brunoventura123.github.io/lojavirtual/' },
     { img: jw, title: 'Site de vídeos e artigos', link: 'https://brunoventura123.github.io/jw.org-homepage/' },
     { img: captura, title: 'Página de Captura', link: 'https://brunoventura123.github.io/captura-curso/' },

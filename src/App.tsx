@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { TopPage } from './components/topPage'
 import { Projects } from './components/projects'
 import { About } from './components/about'
@@ -9,6 +9,7 @@ import { Up } from './components/up';
 function App() {
   return (
     <>
+
       <TopPage />
       <Projects />
       <About />
